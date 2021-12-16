@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: #000;
+    margin: 200px;
+  }
+  
+  .clock {
+    background: black;
+    color: rgb(11, 239, 247);
+    position: center;
+    padding: 10px 20px;
+    font-size: 100px;
+    border-radius: 5px;
+    }
